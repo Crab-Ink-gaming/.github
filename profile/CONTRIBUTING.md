@@ -25,7 +25,7 @@ We use a standard fork-and-pull-request workflow
   Do not submit massive PRs that change thousands of lines. Break large changes into smaller, reviewable chunks
   Remove all debug print statements before opening your Pull Request
 
-## 5. Hardware & Design Guidelines
+## 4. Hardware & Design Guidelines
 
 Working with physical design files requires a slightly different approach, as GitHub cannot easily highlight the differences between two 3D models or PCB files
 
