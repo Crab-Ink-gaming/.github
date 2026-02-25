@@ -2,7 +2,7 @@
 
 Here is the Inky organisation, we are developping a portable console.
 
-You can check out our documentation at https://doc.inky.top
+You can check out our documentation at https://docs.inky.top
 
 <!--
 
